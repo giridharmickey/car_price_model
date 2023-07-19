@@ -1,0 +1,18 @@
+1. created a new environment (carprediction)---python 3.7
+2.working directory(launched jupyter notebook)
+3.
+
+   Read Text from images
+
+libraries-  opencv , pytesseract
+
+install tesseract - ocr exe.file
+
+ cng  diesel  petrol
+  1     0        0   - cng
+  0     1	 0  -diesel
+  0     0        1  - petrol
+
+
+
+ 
